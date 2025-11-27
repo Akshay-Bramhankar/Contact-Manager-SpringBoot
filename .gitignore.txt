@@ -1,0 +1,17 @@
+target
+!.mvnwrappermaven-wrapper.jar
+!srcmaintarget
+.class
+
+# Eclipse
+.classpath
+.project
+.settings
+
+# IntelliJ
+.idea
+.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
